@@ -2,16 +2,22 @@
 
 Minify Images by using TinyPNG API
 
+## How to install
+
+```
+npm install tinyImages -g
+```
+
 ### How to use  CLI?
 
 ```
 tiny-images [options]
 
--h, --help                     output usage information
--v, --version                  output the version number
--a, --add [api_key]            Add api key to TinyImages
--d, --dir [path]               File or directory path for tiny images  - defaults to ./
--t, --target [path]            Directory for output tinify images  - defaults to ./
+-h, --help               output usage information
+-v, --version            output the version number
+-a, --add [api_key]      Add api key to TinyImages
+-d, --dir [path]         File or directory path for tiny images  - defaults to ./
+-t, --target [path]      Directory for output tinify images  - defaults to ./
 ```
 
 #### Examples:
