@@ -1,11 +1,16 @@
 {
   "name": "tinyImages",
-  "description": "The first cli",
+  "description": "Tiny images by using tinypng api",
   "version": "1.0.0",
   "keywords": [
-    "toolkit",
-    "cli"
+    "tiny",
+    "png"
   ],
+  "author": "gexiaowei<gandxiaowei@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gexiaowei/tinyimages.git"
+  },
   "files": [
     "lib",
     "bin"
