@@ -18,8 +18,8 @@ var root = "./", dist = "./";
 
 program
     .version(packageInfo.version)
-    .option('-a, --add [api_key]', 'add api key to TinyImages')
-    .option('-d, --dir [path]', 'directory for tiny images  - defaults to ./')
+    .option('-a, --add [api_key]', 'Add api key to TinyImages')
+    .option('-d, --dir [path]', 'File or directory path for tiny images  - defaults to ./')
     .option('-t, --target [path]', 'directory for output tinify images  - defaults to ./')
     .parse(process.argv);
 
