@@ -1,3 +1,4 @@
+ ![image](https://github.com/gexiaowei/tinyImages/raw/master/logo.jpg)
 
 Minify Images by using TinyPNG API
 
